@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    padding-bottom: 100px;
+    ;
+    position: relative;    
+    width: 100%;    
+    height: 100%;
+}
+
+.admin-image{
+    width: 100px;
+    object-fit: contain;
+}
+.footer{
+    position: fixed;
+    bottom: 0;       
+    width: 100%;    
+    padding: 0;
+    margin: 0;
+}
+
+.shop-logo{
+    width: 5%;
+    height: 5%;
+}
+#labjegyzet{
+    color: white;
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.cart-image{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
